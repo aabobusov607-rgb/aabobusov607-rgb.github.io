@@ -1,2 +1,4 @@
-# aabobusov607-rgb.github.io
-Каббот Mini App
+Каббот — Excel в кабинеты Wildberries.
+
+https://aabobusov607-rgb.github.io/
+https://t.me/ababahabot
